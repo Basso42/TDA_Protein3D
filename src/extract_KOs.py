@@ -2,6 +2,12 @@
 
 # OM-RGC_v2.tsv https://drive.google.com/file/d/1YUNHJXFJ3T8bcoi1YEI8gZ5e6mBzY93s/view?usp=sharing
 # To download gene_profile_metaG.tsv from my inria account
+
+
+"""
+Here, find way to run wget in .py file
+"""
+
 !wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1YUNHJXFJ3T8bcoi1YEI8gZ5e6mBzY93s' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1YUNHJXFJ3T8bcoi1YEI8gZ5e6mBzY93s" -O OM-RGC_v2.tsv && rm -rf /tmp/cookies.txt
 
 # request creation
