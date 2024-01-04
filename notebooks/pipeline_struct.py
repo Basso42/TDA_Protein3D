@@ -15,6 +15,8 @@ import sys
 sys.path.append('../')
 from src.ESM_functions import fetching_and_writing_3D
 
+#This script is to predict and store 3D structures of all the genes in the Tara_relevant_genes.parquet file. 
+#This dataset is the original Tara dataset filtered to only contain genes that begin with ATG and a KO. (about 500k lines) 
 
 if __name__ == '__main__':
 
