@@ -11,6 +11,7 @@ It also contains a notebook that tests different Topological Data Analyses (/not
 
 ```import_data.py``` must be run at the beginning of the session on the SSPLab cluster. It downloads the folder containing protein structures for KO's in the /data folder. It is then structured as the following 
 
+```
 ├── data
 │   ├── 3D_for_KOs
 │       ├── KOO275
@@ -19,3 +20,4 @@ It also contains a notebook that tests different Topological Data Analyses (/not
             ├── long_prot.txt -> *might not exist, contains the ids of the long proteins that could not be folded (>400 AA)*
         ├── KOO331
         ├── ...
+```
