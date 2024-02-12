@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-02-12T00:32:48.140Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="sa5hCf6-dNgt8aFL_Aq9" version="23.1.0" type="github">
+  <diagram name="Page-1" id="gdvTaMr-ZcVzfWbFFnLO">
+    <mxGraphModel dx="1044" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gYsWmk7vLsM5cIgNNLAx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/8/80/KEGG_database_logo.gif;" parent="1" vertex="1">
+          <mxGeometry x="300" y="150" width="195.05" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gYsWmk7vLsM5cIgNNLAx-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="290" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYsWmk7vLsM5cIgNNLAx-5" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Workbench&quot; face=&quot;Workbench&quot;&gt;python scrape.py&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-1" value="&lt;b&gt;S3 Storage&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-2" value="&lt;b&gt;15 millions of function annotated proteins from 8000 prokaryotic genomes stored&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="507" y="454.63" as="sourcePoint" />
+            <mxPoint x="597" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-5" value="&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Inria Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot;&gt;hsu:hsaf_001 MDTALSVCQ&lt;span style=&quot;background-color: rgb(255, 153, 153);&quot;&gt;EFNARRKLK&lt;/span&gt;AAVKAVVASS&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Inria Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot;&gt;eco&lt;/font&gt;&lt;font face=&quot;Inria Sans&quot;&gt;: b0002 &lt;/font&gt;&lt;font face=&quot;Inria Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 153, 153);&quot;&gt;MDTAQKKL&lt;/span&gt;QEFNARRKLKAAVKAVVASS&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;font face=&quot;Inria Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot;&gt;eco:b0001 &lt;span style=&quot;background-color: rgb(255, 153, 153);&quot;&gt;MDTAQKKL&lt;/span&gt;AEFNARRKLKAAVKAVVASS&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="350" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot;&gt;&lt;b&gt;Sequence alignment and clustering with MMSeqs2, 500,000 clusters&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="374" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="520" as="sourcePoint" />
+            <mxPoint x="800" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.renater.fr/wp-content/uploads/2022/01/grid5000.png;" vertex="1" parent="1">
+          <mxGeometry x="710" y="630" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-10" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Inria Sans&quot;&gt;Training on &lt;/font&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot;&gt;4&amp;nbsp;x&amp;nbsp;Nvidia Tesla&amp;nbsp;V100-PCIE-32GB&amp;nbsp;(32&amp;nbsp;GiB) of Grid5000 cluster for a week&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="660" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
