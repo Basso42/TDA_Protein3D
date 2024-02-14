@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T18:38:43.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="aaLxFs-p5R8h8Sy7xG0h" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T18:39:05.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Sr8tEh8XfrqaEs5rOXyB" version="23.1.2" type="github">
   <diagram name="Page-1" id="gdvTaMr-ZcVzfWbFFnLO">
     <mxGraphModel dx="752" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Sequence alignment and clustering with MMSeqs2, 500,000 clusters for train/validation/test&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#384257;" parent="1" vertex="1">
-          <mxGeometry x="650" y="510" width="230" height="30" as="geometry" />
+          <mxGeometry x="650" y="502" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.renater.fr/wp-content/uploads/2022/01/grid5000.png;" parent="1" vertex="1">
-          <mxGeometry x="307.52" y="362.59" width="180" height="90" as="geometry" />
+          <mxGeometry x="315.04999999999995" y="380" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-10" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Inria Sans&quot; style=&quot;font-size: 14px;&quot;&gt;Training on &lt;/font&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot; style=&quot;font-size: 14px;&quot;&gt;4&amp;nbsp;x&amp;nbsp;Nvidia Tesla&amp;nbsp;V100-PCIE-32GB&amp;nbsp;(32&amp;nbsp;GiB VRam) on Grid5000 cluster for a few weeks&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#384257;" parent="1" vertex="1">
-          <mxGeometry x="287.52" y="510" width="220" height="30" as="geometry" />
+          <mxGeometry x="292.52" y="502" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GcXZPWjXGlCT9SL7aIIP-1" value="&lt;font face=&quot;Workbench&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Workbench&quot; style=&quot;font-size: 14px;&quot;&gt;python scrape.py&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#384257;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="130" height="40" as="geometry" />
