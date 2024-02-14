@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T17:38:15.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="8IgRUBMe-EAuFRaQMOVd" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T17:38:45.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="fIQbal_UQXZzVc7BPPRI" version="23.1.2" type="github">
   <diagram name="Page-1" id="gdvTaMr-ZcVzfWbFFnLO">
-    <mxGraphModel dx="940" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="495" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,8 @@
             <mxPoint x="597" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Sequence alignment and clustering with MMSeqs2, 500,000 clusters&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="650" y="370" width="190" height="30" as="geometry" />
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Sequence alignment and clustering with MMSeqs2, 500,000 clusters for train/validation/test&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="650" y="370" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
