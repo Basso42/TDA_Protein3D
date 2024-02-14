@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T17:38:51.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="ZnwOev3ZIR5iTNR7TDMI" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T17:39:52.045Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="dpBi0WlkJD5j3bjY4Zh4" version="23.1.2" type="github">
   <diagram name="Page-1" id="gdvTaMr-ZcVzfWbFFnLO">
-    <mxGraphModel dx="495" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="671" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,11 @@
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-1" value="&lt;b&gt;S3 Storage&lt;/b&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-1" value="&lt;div&gt;&lt;b&gt;S3 Storage&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Onyxia&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="410" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-2" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;15 millions of function annotated proteins from 8000 prokaryotic genomes stored (whole KEGG prokaryotic genes database)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="150" y="442.59" width="190" height="30" as="geometry" />
+          <mxGeometry x="190" y="442.59999999999997" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Inria+Sans&quot; face=&quot;Inria Sans&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Sequence alignment and clustering with MMSeqs2, 500,000 clusters for train/validation/test&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="650" y="360" width="230" height="30" as="geometry" />
+          <mxGeometry x="640" y="360" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1ODOrR9UDKZ9Wb3Q9qz-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
